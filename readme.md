@@ -1,1 +1,1 @@
-#Repo for projects made for fastai course V3
+# Repo for projects made for fastai course V3
